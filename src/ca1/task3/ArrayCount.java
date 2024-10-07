@@ -1,4 +1,4 @@
-package ca3;
+package ca1.task3;
 
 public class ArrayCount {
 

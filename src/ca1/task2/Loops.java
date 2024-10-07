@@ -1,4 +1,4 @@
-package ca2;
+package ca1.task2;
 
 public class Loops {
 

@@ -1,4 +1,4 @@
-package ca1;
+package ca1.task1;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;

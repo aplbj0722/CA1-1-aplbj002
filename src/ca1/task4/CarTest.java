@@ -1,4 +1,4 @@
-package ca4;
+package ca1.task4;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
