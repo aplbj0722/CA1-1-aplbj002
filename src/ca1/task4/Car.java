@@ -21,5 +21,14 @@ public class Car {
         Car car = (Car) obj;
         return model.equals(car.model) && color.equals(car.color);
     }
+    
+    @Override
+    public int hashCode() {
+        return Objects.hash(model, color);
+    }
 
+    @Override
+    public String toString() {
+        return make + ", " + model + ", " + color;
+    }
 }
